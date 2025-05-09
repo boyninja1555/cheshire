@@ -11,7 +11,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.14"
-bleak = "^0.21.1"
+bleak = ">=0.21.1,<0.23.0"
 
 
 [build-system]
